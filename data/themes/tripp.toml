@@ -6,8 +6,8 @@ light = true
 
 # Primary
 primary = "rgba(91, 125, 17, 1)"
-primary_light = "rgb(22, 88, 138)"
-primary_dark = "#00c4a7"
+primary_dark = "rgb(22, 88, 138)"
+primary_light = "rgb(64, 72, 74)"
 
 # Links
 link = "rbg(56, 139, 201)"
@@ -21,5 +21,5 @@ menu_title = "rgba(91, 125, 17, 1)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(255, 255, 255)"
+home_section_even = "rgb(213, 218, 219)"
 

@@ -1,0 +1,15 @@
+a.navbar-brand { font-weight: 200!important; }
+
+h2 { font-weight: 400 }
+h3 { font-weight: 400 }
+h4 { font-weight: 400 }
+
+div.portrait-title h3 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+div.portrait-title h3 a {
+  font-size: .8rem;
+}
+
+
