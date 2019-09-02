@@ -5,7 +5,7 @@ name = "Tripp Theme"
 light = true
 
 # Primary
-primary = "rgba(91, 125, 17, 1)"
+primary = "rgb(91, 125, 17)"
 primary_dark = "rgb(22, 88, 138)"
 primary_light = "rgb(64, 72, 74)"
 
@@ -16,8 +16,8 @@ link_hover = "rgb(63, 87, 11)"
 # Menu
 menu_primary = "rgb(255, 255, 255)"
 menu_text = "rgb(22, 88, 138)"
-menu_text_active = "rgba(91, 125, 17, 1)"
-menu_title = "rgba(91, 125, 17, 1)"
+menu_text_active = "rgb(91, 125, 17)"
+menu_title = "rgb(49, 49, 49)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

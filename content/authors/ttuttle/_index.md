@@ -66,4 +66,4 @@ email: "tripp.tuttle@unc.edu"
 
 ---
 
-My research is in Human-AI Interaction. I am particularly interested in the opaque, sociotechnical infrastructures that undergird intelligent systems – particularly web search. Also, I am a member of the <a href="https://ncpfastnetwork.com">NC PFAS Testing Network</a> Data Science team. Prior to graduate school, I was UNC’s Fulbright Program Adviser and global program manager at the <a href="https://cgi.unc.edu">UNC Center for Global Initiatives</a>. 
+My research is in Human-AI Interaction. I am particularly interested in the opaque, sociotechnical infrastructures that undergird intelligent systems – particularly web search. Currently, I work with the <a href="https://ncpfastnetwork.com">NC PFAS Testing Network</a> Data Science team at <a href="https://renci.org">RENCI</a>. Prior to graduate school, I was UNC’s Fulbright Program Adviser and global program manager at the <a href="https://cgi.unc.edu">UNC Center for Global Initiatives</a>. 

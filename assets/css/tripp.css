@@ -1,4 +1,8 @@
-a.navbar-brand { font-weight: 200!important; }
+a.navbar-brand {
+  font-weight: 200!important;
+  font-family: "Playfair Display", sans-serif;
+  color: rgb(49, 49, 49);
+}
 
 h2 { font-weight: 400 }
 h3 { font-weight: 400 }
@@ -12,4 +16,16 @@ div.portrait-title h3 a {
   font-size: .8rem;
 }
 
+.fa-li {
+  color: rgb(22, 88, 138);
+}
+
+ul.ul-interests {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.ul-interests li::marker {
+  color: rgb(22, 88, 138);
+}
 
