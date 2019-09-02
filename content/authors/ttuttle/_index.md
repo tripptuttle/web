@@ -23,6 +23,8 @@ bio: My research is in Human-AI Interaction.
 interests:
 - Artificial Intelligence
 - Human-AI Interaction (HAII)
+- Science and Technology Studies
+- Sociotechnical Systems
 - Information Retrieval
 
 education:
