@@ -66,5 +66,4 @@ email: "tripp.tuttle@unc.edu"
 
 ---
 
-# Write longer bio here:
-This is my bio.
+Tripp is pursuing his PhD in Information Science, with a focus on Human-AI Interaction. He is particularly interested in the opaque, sociotechnical infrastructures that undergird intelligent systems – particularly web search. Currently, he’s working as a member of NC PFAS Testing Network’s Data Science team. Prior to graduate school, he served as UNC’s Fulbright Program Adviser and global program manager at the UNC Center for Global Initiatives. 
