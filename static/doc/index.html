@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        var vars = [], hash;
+        var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+        for(var i = 0; i < hashes.length; i++)
+        {
+            hash = hashes[i].split('=');
+            vars.push(hash[0]);
+            vars[hash[0]] = hash[1];
+        }
+        if (vars['id']) {
+            let id = vars['id'];
+            console.log(id);
+            window.location.href = "https://adminliveunc.sharepoint.com/sites/ttuttle/_layouts/15/DocIdRedir.aspx?ID=" + id;
+        } else {
+                        window.alert("Sorry, seems this URL wasn't formatted correctly. Check with Tripp to make sure!")}
+    });
+
+</script>
+<main>
+    <div id="result">
+
+    </div>
+</main>
+</body>
+</html>
